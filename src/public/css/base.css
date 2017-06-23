@@ -3,10 +3,12 @@ body {
   width: 100%;
 }
 
-.panel-primary>.panel-heading {background: #d64541;}
+.panel-primary>.panel-heading {background: #d64541; border: 1px solid #d64541;}
 
 
-
+.col-sm-6 {
+    width: 100%; 
+}
 .messages {
   list-style: none;
   margin: 0;
