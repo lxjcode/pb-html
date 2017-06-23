@@ -3,11 +3,9 @@ body {
   width: 100%;
 }
 
-.panel-primary {background: #d64541;}
+.panel-primary>.panel-heading {background: #d64541;}
 
-.panel-heading{
-background: #d64541;
-}
+
 
 .messages {
   list-style: none;
