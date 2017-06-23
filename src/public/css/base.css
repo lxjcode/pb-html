@@ -6,6 +6,10 @@ body {
 .panel-primary>.panel-heading {background: #d64541; border: 1px solid #d64541;}
 
 
+.col-sm-offset-3 {
+    margin-left: 0;
+}
+
 .col-sm-6 {
     width: 100%; 
 }
