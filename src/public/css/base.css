@@ -3,7 +3,7 @@ body {
   width: 100%;
 }
 
-.panel{background: red;}
+.panel-primary {background: #d64541;}
 
 .panel-heading{
 background: #d64541;
@@ -23,7 +23,7 @@ background: #d64541;
 
 .panel-body {
   overflow-y: auto;
-  height: 100%;
+  height: 300px;
 }
 
 ::-webkit-scrollbar-track {
