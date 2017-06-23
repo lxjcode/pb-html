@@ -1,6 +1,6 @@
 {
   "name": "pb-html",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Pandorabots HTML interface with Node.js backend",
   "scripts": {
     "start": "node src/index.js",
