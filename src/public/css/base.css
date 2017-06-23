@@ -1,7 +1,9 @@
 body {
   padding-top: 1.5rem;
-  background: red;
+  width: 100%;
 }
+
+.panel{background: red;}
 
 .panel-heading{
 background: #d64541;
@@ -21,7 +23,7 @@ background: #d64541;
 
 .panel-body {
   overflow-y: auto;
-  height: 350px;
+  height: 100%;
 }
 
 ::-webkit-scrollbar-track {
