@@ -1,7 +1,12 @@
 body {
-  padding-top: 1.5rem;
+  padding-top: 0;
+  padding-left:0;
+  padding-right:0;
   width: 100%;
 }
+
+
+.btn-warning{background: #d64541; }
 
 .panel-primary>.panel-heading {background: #d64541; border: 1px solid #d64541;}
 
